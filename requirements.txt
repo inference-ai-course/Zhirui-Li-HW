@@ -1,0 +1,8 @@
+arxiv
+PyMuPDF
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+pydantic
+numpy
